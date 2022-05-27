@@ -1,3 +1,3 @@
 export default function ImagePage() {
-  return <></>;
+  return <>이미지 구간</>;
 }
